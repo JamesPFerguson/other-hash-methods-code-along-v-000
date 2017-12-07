@@ -8,4 +8,4 @@ groceries = {
 }
 
 
-puts groceries.min
+puts groceries.max
